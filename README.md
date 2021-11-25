@@ -46,16 +46,16 @@ Run the audio processing script by executing the below command
 python audio_processing.py <test_audio_file>
 ```
 ## Experiment Results
-Both the methods were tested aginst a manually generated dataset of 3 Ragas - Dheerasankarabharanam, Harikamboji and Shanmugapriya.
-Distribution of the Raga dataset:
-<img src="https://user-images.githubusercontent.com/47625221/143379985-c1803bb5-ae5a-4988-a86e-c81aafff7838.png" width="500"/>
+Both the methods were tested aginst a manually generated dataset of 3 Ragas - Dheerasankarabharanam, Harikamboji and Shanmugapriya.<br>
+Distribution of the Raga dataset:<br>
+<img src="https://user-images.githubusercontent.com/47625221/143379985-c1803bb5-ae5a-4988-a86e-c81aafff7838.png" width="350"/>
 
 Audio processing algorithm was tested with 4 different types of audio samples - instrumental, vocal, vocal with background, vocal after removing background<br>
-Experiment results:
+Experiment results:<br>
 <img src="https://user-images.githubusercontent.com/47625221/143380533-c6d8f2a1-27aa-4ec9-a44c-d0306214010b.png" width="500"/>
 
-Transfer learning model was trainined with 3 different base tasks - nstrument detection, spoken digit classification and genre classification<br>
-Experiment results:
+Transfer learning model was trainined with 3 different base tasks - instrument detection, spoken digit classification and genre classification<br>
+Experiment results:<br>
 <img src="https://user-images.githubusercontent.com/47625221/143380799-629d2e97-01cf-456e-9cc9-d041532597bd.png" width="500"/>
 
-More details on the algorithm, experiment and result analysis can be found here.
+More details on the algorithm, experiment and result analysis can be found <a href="https://github.com/varshakvenkat/Melakarta-Detection/blob/main/Melakarta%20detection.pdf">here</a>.
