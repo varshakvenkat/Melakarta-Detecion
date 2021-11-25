@@ -1,4 +1,4 @@
-# Melakarta (Raga) Detecion
+# Melakarta (Raga) Detection
 Raga, which is a melodic framework, is one of the core concepts in Carnatic music. Determination of Raga plays a critical role
 in information retrieval concerning Carnatic songs. Each Raga plays a significant role in bringing out
 different emotions in the listener. When there is a need to create a particular atmosphere, it could be
